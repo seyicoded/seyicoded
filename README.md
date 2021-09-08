@@ -23,17 +23,24 @@ Here are some ideas to get you started:
 
 ```javascript
 const aboutMe = {
-    name: "Opadonu Seyi",
+    	name: "Opadonu Seyi",
+	
 	backend: ["PHP", "PHP CORE", "LARAVEL", "NODE JS", "EXPRESS"],
+	
 	native: {android: "android"},
+	
 	cross_platform: {platform: ["android", "ios", "web", "desktop"], language: ["react native", "electron", "expo"]},
-    other_languages: ["Html/5", "CSS/3", "JavaScript", "Jquery", "BS", "Ajax Embodiment", "ReactJS", "and more"],
+	
+    	other_languages: ["Html/5", "CSS/3", "JavaScript", "Jquery", "BS", "Ajax Embodiment", "ReactJS", "and more"],
+	
 	database: ["MySql", "PosgreSql", "MongoDB", "Access", "ClearDB"],
+	
 	os: ["windows *", {linux: ["kali", "ubuntu"]}, "mac os x"],
-    connect: {
-        email: "opadonuseyi01@gmail.com",
+	
+    	connect: {
+        	email: "opadonuseyi01@gmail.com",
 		phone: "+234-9023112671",
-    },
-    quote: "Think it, Call me"
+    	},
+    	quote: "Think it, Call me"
 }
 ```
