@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
-```
+```javascript
 const aboutMe = {
     name: "Opadonu Seyi",
 	backend: ["PHP", "PHP CORE", "LARAVEL", "NODE JS", "EXPRESS"],
