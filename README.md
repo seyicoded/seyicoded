@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi bel😊ved 👋
+<hr />
 
 <!--
 **seyicoded/seyicoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>WELCOME TO SEYI CODED 🥰🥰GITHUB🥰🥰.</h1>
+<h6 style="font-size: 10">Apologies as alot of projects are private of which i believe you would understand but for the purpose of this i've managed to make some public, enjoy &hearts;.</h6>
+
