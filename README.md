@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 const aboutMe = {
     	name: "Opadonu Seyi",
 	
-	backend: ["PHP", "PHP CORE", "LARAVEL", "NODE JS", "EXPRESS"],
+	backend: ["PHP", "PHP CORE", "LARAVEL", "NODE JS", "NEST JS", "EXPRESS"],
 	
 	native: {android: "android"},
 	
