@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const aboutMe = {
-    	name: "Opadonu Seyi",
+    	name: "Opadonu Emmanuel Seyi",
 	
 	backend: ["PHP", "PHP CORE", "LARAVEL", "LIVEWIRE", "NODE JS", "NEST JS", "EXPRESS"],
 	
