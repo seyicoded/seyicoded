@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
     	name: "Opadonu Emmanuel Seyi",
+    	
+    	aka: "Charles",
 	
 	backend: ["PHP", "PHP CORE", "LARAVEL", "LIVEWIRE", "NODE JS", "NEST JS", "EXPRESS"],
 	
