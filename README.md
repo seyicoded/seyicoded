@@ -39,7 +39,6 @@ const aboutMe = {
 	
     	connect: {
         	email: "opadonuseyi01@gmail.com",
-		phone: "+234-9023112671",
     	},
     	quote: "Think it, Call me"
 }
