@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 const aboutMe = {
     	name: "Opadonu Emmanuel Seyi",
     	
-    	aka: "Charles",
+    	aka: "Elite",
 	
 	backend: ["PHP", "PHP CORE", "LARAVEL", "LIVEWIRE", "NODE JS", "NEST JS", "EXPRESS"],
 	
